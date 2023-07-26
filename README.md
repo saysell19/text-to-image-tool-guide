@@ -24,7 +24,7 @@ Once all of this (plus some tweaks here & there) was set up, I could build my ow
 **Reddit**, Stable Diffusion; [Lots of questions and informative answers on here](https://www.reddit.com/r/StableDiffusion/search/?q=automatic1111&cId=dd328b81-294f-4a07-868f-fbddf63c274f&type=link)  \
 **Stackoverflow**; [Especially good for getting the initial setup working](https://stackoverflow.com)  \
 **DXdiag**; Understanding your own computer specs is important for understanding the errors you may get from the console  \
-**Super helpful Cheat sheet**; [@supaGuren's stable diffusion cheat is awesome](https://github.com/SupaGruen/StableDiffusion-CheatSheet)  \
+**Super helpful Cheat sheet**; [@supaGuren's stable diffusion cheat is awesome](https://github.com/SupaGruen/StableDiffusion-CheatSheet)
 
 ## Get it learning
 
