@@ -57,7 +57,7 @@ Once again, I went to the internet to find my needed answers. I found a very hel
 
 ## Credits
 
-**Olivio Sarikas**; Olivio's videos were very helpful, and I would not have gotten this working without them.  
+**Olivio Sarikas**; Olivio's videos were very helpful, and I would not have gotten this working without them.
 **Automatic1111**; The Automatic1111 team have done great with this tool, and I am very grateful for their work.  
 **Huggingface**; The Huggingface community is awesome, and I am very grateful for their work.  
 **Reddit**; The Reddit community is awesome, and I am very grateful for their work.  
