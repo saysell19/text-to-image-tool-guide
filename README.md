@@ -17,13 +17,13 @@ Once all of this (plus some tweaks here & there) was set up, I could build my ow
 
 ## Tools used
 
-**Automatic1111**; [link to repo](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  \
-**Dreambooth extension**; This can be downloaded from the AUTOMATIC1111 web-UI once that is set up  \
-**Huggingface**; [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)  \
-**Olivio Sarikas, Youtube**; [Installing Automatic1111](https://www.youtube.com/watch?v=3cvP7yJotUM) | [Installing and Training with Dreambooth](https://www.youtube.com/watch?v=9Nu5tUl2zQw)  \
-**Reddit**, Stable Diffusion; [Lots of questions and informative answers on here](https://www.reddit.com/r/StableDiffusion/search/?q=automatic1111&cId=dd328b81-294f-4a07-868f-fbddf63c274f&type=link)  \
-**Stackoverflow**; [Especially good for getting the initial setup working](https://stackoverflow.com)  \
-**DXdiag**; Understanding your own computer specs is important for understanding the errors you may get from the console  \
+**Automatic1111**; [link to repo](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+**Dreambooth extension**; This can be downloaded from the AUTOMATIC1111 web-UI once that is set up
+**Huggingface**; [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)
+**Olivio Sarikas, Youtube**; [Installing Automatic1111](https://www.youtube.com/watch?v=3cvP7yJotUM) | [Installing and Training with Dreambooth](https://www.youtube.com/watch?v=9Nu5tUl2zQw)
+**Reddit**, Stable Diffusion; [Lots of questions and informative answers on here](https://www.reddit.com/r/StableDiffusion/search/?q=automatic1111&cId=dd328b81-294f-4a07-868f-fbddf63c274f&type=link)
+**Stackoverflow**; [Especially good for getting the initial setup working](https://stackoverflow.com)
+**DXdiag**; Understanding your own computer specs is important for understanding the errors you may get from the console
 **Super helpful Cheat sheet**; [@supaGuren's stable diffusion cheat is awesome](https://github.com/SupaGruen/StableDiffusion-CheatSheet)
 
 ## Get it learning
@@ -45,7 +45,7 @@ I encountered challenges in the following areas:
 - Memory & GPU errors
 - Prompt issues
 
-The main things that I learned were patience and persistence. This was a completely new concept, and I had to learn many new things to get it working. Following the guided videos was enough for much of the process, but when I ran into issues, I had to research to find the answers I needed.  
+The main things that I learned were patience and persistence. This was a completely new concept, and I had to learn many new things to get it working. Following the guided videos was enough for much of the process, but when I ran into issues, I had to research to find the needed answers.  
 This is because everyone's computer is different, and the errors I was getting were specific to my hardware. Anyone else trying to do this will likely run into different issues, but the process of finding the answers will be the same.  
 
 I learnt that I may need to upgrade my 2070 super card if I want to do this again :P  
@@ -63,6 +63,6 @@ Once again, I went to the internet to find my needed answers. I found a very hel
 **Reddit**; The Reddit community is awesome, and I am very grateful for their work.  
 **Stackoverflow**; The Stackoverflow community is awesome, and I am very grateful for their work.  
 **SupaGruen**; The Stable Diffusion Cheat Sheet is awesome, and I am very grateful for their work.  
-**Myself**; I am awesome, and I am very grateful for my work :P  
+**Myself**; I am awesome, and I am very grateful for my work :P
 
-Check out what I generated in the `output` folder! Yes, some of them are completely botched, I kept these in for balance!  
+Check out what I generated in the `output` folder! Yes, some of them are completely botched, I kept these in for balance!
