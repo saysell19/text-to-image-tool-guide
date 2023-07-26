@@ -57,12 +57,12 @@ Once again, I went to the internet to find my needed answers. I found a very hel
 
 ## Credits
 
-**Olivio Sarikas**; Olivio's videos were very helpful, and I would not have gotten this working without them.  \
-**Automatic1111**; The Automatic1111 team have done great with this tool, and I am very grateful for their work.  \
-**Huggingface**; The Huggingface community is awesome, and I am very grateful for their work.  \
-**Reddit**; The Reddit community is awesome, and I am very grateful for their work.  \
-**Stackoverflow**; The Stackoverflow community is awesome, and I am very grateful for their work.  \
-**SupaGruen**; The Stable Diffusion Cheat Sheet is awesome, and I am very grateful for their work.  \
-**Myself**; I am awesome, and I am very grateful for my work :P  \
+**Olivio Sarikas**; Olivio's videos were very helpful, and I would not have gotten this working without them.  
+**Automatic1111**; The Automatic1111 team have done great with this tool, and I am very grateful for their work.  
+**Huggingface**; The Huggingface community is awesome, and I am very grateful for their work.  
+**Reddit**; The Reddit community is awesome, and I am very grateful for their work.  
+**Stackoverflow**; The Stackoverflow community is awesome, and I am very grateful for their work.  
+**SupaGruen**; The Stable Diffusion Cheat Sheet is awesome, and I am very grateful for their work.  
+**Myself**; I am awesome, and I am very grateful for my work :P  
 
-Check out what I generated in the `output` folder! Yes, some of them are completely botched, I kept these in for balance!  \
+Check out what I generated in the `output` folder! Yes, some of them are completely botched, I kept these in for balance!  
