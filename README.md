@@ -5,7 +5,7 @@
 
 ## Why put this together?
 
-I saw an article about how you can use AI to generate an image of yourself in various styles and it would be fun to try out. I also wanted to learn more about AI and how it works. I spent a few days getting it working and scoured the internet to troubleshoot all the errors I ran into. I thought it would be cool to document my journey and share what I learned, and if it helps others, that would be great!
+I saw an article about how you can use AI to generate an image of yourself in various styles, and it would be fun to try out. I also wanted to learn more about AI and how it works. I spent a few days getting it working and scoured the internet to troubleshoot all the errors I ran into. I thought it would be cool to document my journey and share what I learned, and if it helps others, that would be great!
 
 ## What is it?
 
@@ -17,14 +17,14 @@ Once all of this (plus some tweaks here & there) was set up, I could build my ow
 
 ## Tools used
 
-**Automatic1111**; [link to repo](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+**Automatic1111**; [link to repo](https://github.com/AUTOMATIC1111/stable-diffusion-webui)  \
 **Dreambooth extension**; This can be downloaded from the AUTOMATIC1111 web-UI once that is set up
-**Huggingface**; [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)
-**Olivio Sarikas, Youtube**; [Installing Automatic1111](https://www.youtube.com/watch?v=3cvP7yJotUM) | [Installing and Training with Dreambooth](https://www.youtube.com/watch?v=9Nu5tUl2zQw)
-**Reddit**, Stable Diffusion; [Lots of questions and informative answers on here](https://www.reddit.com/r/StableDiffusion/search/?q=automatic1111&cId=dd328b81-294f-4a07-868f-fbddf63c274f&type=link)
-**Stackoverflow**; [Especially good for getting the initial setup working](https://stackoverflow.com)
-**DXdiag**; Understanding your own computer specs is important for understanding the errors you may get from the console
-**Super helpful Cheat sheet**; [@supaGuren's stable diffusion cheat is awesome](https://github.com/SupaGruen/StableDiffusion-CheatSheet)
+**Huggingface**; [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)  \
+**Olivio Sarikas, Youtube**; [Installing Automatic1111](https://www.youtube.com/watch?v=3cvP7yJotUM) | [Installing and Training with Dreambooth](https://www.youtube.com/watch?v=9Nu5tUl2zQw)  \
+**Reddit**, Stable Diffusion; [Lots of questions and informative answers on here](https://www.reddit.com/r/StableDiffusion/search/?q=automatic1111&cId=dd328b81-294f-4a07-868f-fbddf63c274f&type=link)  \
+**Stackoverflow**; [Especially good for getting the initial setup working](https://stackoverflow.com)  \
+**DXdiag**; Understanding your own computer specs is important for understanding the errors you may get from the console  \
+**Super helpful Cheat sheet**; [@supaGuren's stable diffusion cheat is awesome](https://github.com/SupaGruen/StableDiffusion-CheatSheet)  \
 
 ## Get it learning
 
